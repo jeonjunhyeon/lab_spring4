@@ -11,5 +11,7 @@
 			<attribute name="owner.project.facets" value="jst.web"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/JUNHYEON_GIT/spring-beans-4.3.30.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JUNHYEON_GIT/spring-context-4.3.30.RELEASE.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
